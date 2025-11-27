@@ -25,4 +25,4 @@ Visualize key KPIs through dashboards for better decision-making.
 
 - dashboard Interaction <a https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-10-16%20184647.png</a>
 - https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-06%20223258.png
-- 
+- https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png
