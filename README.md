@@ -15,3 +15,12 @@ Visualize key KPIs through dashboards for better decision-making.
 - Total Inventory
 - Inventory Value
 - Overstock / Under-stock / Out-of-stock Status
+
+## process
+- Gather all supply chain data (sales, inventory, products) and clean it for accuracy.
+- Import the cleaned data into SQL and create proper tables and relationships.
+- Connect SQL to BI tools and create a structured data model for analysis.
+- Design dashboards to show sales performance, inventory status, store/region trends, and key KPIs.
+- Check dashboard accuracy, extract insights, and present the final results in a PPT.
+
+- dashboard Interaction
