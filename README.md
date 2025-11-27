@@ -23,7 +23,7 @@ Visualize key KPIs through dashboards for better decision-making.
 - Design dashboards to show sales performance, inventory status, store/region trends, and key KPIs.
 - Check dashboard accuracy, extract insights, and present the final results in a PPT.
 
-- dashboard Interaction <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-10-16%20184647.png">View Dashboard</a>
+- dashboard Interaction <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-27%20235343.png">Excel Dashboard</a>
 - <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-06%20223258.png">view Dashboard</a>
 - <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png">view Dashboard</a>
 
