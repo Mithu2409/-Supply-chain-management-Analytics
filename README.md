@@ -23,4 +23,5 @@ Visualize key KPIs through dashboards for better decision-making.
 - Design dashboards to show sales performance, inventory status, store/region trends, and key KPIs.
 - Check dashboard accuracy, extract insights, and present the final results in a PPT.
 
-- dashboard Interaction
+- dashboard Interaction <a https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-10-16%20184647.png</a>
+- 
