@@ -24,8 +24,8 @@ Visualize key KPIs through dashboards for better decision-making.
 - Check dashboard accuracy, extract insights, and present the final results in a PPT.
 
 - dashboard Interaction <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-10-16%20184647.png">View Dashboard</a>
-- <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-06%20223258.png">view Das
-- https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png
+- <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-06%20223258.png">view Dashboard</a>
+- <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png">view Dashboard</a>
 
 ## project Insights
 - Sales performance varies strongly by region and store, with the top 5 stores contributing a major share of total revenue. 
