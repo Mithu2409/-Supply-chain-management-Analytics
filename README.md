@@ -25,7 +25,7 @@ Visualize key KPIs through dashboards for better decision-making.
 
 - dashboard Interaction <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-27%20235343.png">Excel Dashboard</a>
 - <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-27%20235356.png">Power-BI Dashboard</a>
-- <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png">view Dashboard</a>
+- <a href="https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-27%20235407.png">Tableau Dashboard</a>
 
 ## project Insights
 - Sales performance varies strongly by region and store, with the top 5 stores contributing a major share of total revenue. 
