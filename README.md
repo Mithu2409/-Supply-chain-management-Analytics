@@ -33,3 +33,8 @@ Visualize key KPIs through dashboards for better decision-making.
 - Product-wise sales highlight clear best-sellers, but also reveal low-performing products that may need discontinuation or promotion. 
 - Daily and monthly sales trends show predictable demand patterns, helping improve forecasting and planning. 
 - Purchase method analysis shows shifting customer behavior, indicating opportunities to focus on high-converting sales channels.
+
+## conclusion
+- The analysis improved visibility across sales, inventory, and regional performance, helping identify key areas that impact overall supply chain efficiency.
+- Inventory and demand insights revealed major gaps such as overstock, under-stock, and out-of-stock issues, showing the need for better forecasting and replenishment strategies.
+- The dashboards enabled data-driven decision-making, empowering the business to optimize operations, reduce costs, and improve product availability and customer satisfaction.
