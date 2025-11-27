@@ -26,3 +26,10 @@ Visualize key KPIs through dashboards for better decision-making.
 - dashboard Interaction <a https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-10-16%20184647.png</a>
 - https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-06%20223258.png
 - https://github.com/Mithu2409/-Supply-chain-management-Analytics/blob/main/Screenshot%202025-11-09%20144730.png
+
+## project Insights
+- Sales performance varies strongly by region and store, with the top 5 stores contributing a major share of total revenue. 
+- Inventory imbalance is a major issue — several products show overstock, under-stock, and out-of-stock conditions, affecting availability. 
+- Product-wise sales highlight clear best-sellers, but also reveal low-performing products that may need discontinuation or promotion. 
+- Daily and monthly sales trends show predictable demand patterns, helping improve forecasting and planning. 
+- Purchase method analysis shows shifting customer behavior, indicating opportunities to focus on high-converting sales channels.
